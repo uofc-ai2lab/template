@@ -17,16 +17,10 @@
 1. [Highlights](#high)
 2. [News](#news)
 3. [Getting Started](#start)
-   - [Installation](docs/INSTALL.md)
-   - [Prepare Dataset](docs/DATA_PREP.md)
-   - [Evaluation Example](docs/TRAIN_EVAL.md#example)
-   - [GPU Requirements](docs/TRAIN_EVAL.md#gpu)
-   - [Train/Eval](docs/TRAIN_EVAL.md)
 4. [Results and Models](#models)
-5. [TODO List](#todos)
-6. [License](#license)
-7. [Citation](#citation)
-8. [🔥 See Also: GenAD & Vista](#see)
+5. [License](#license)
+6. [Citation](#citation)
+7. [🔥 See Also: GenAD & Vista](#see)
 
 ## Highlights <a name="high"></a>
 
@@ -34,7 +28,7 @@
 
 ## Getting Started <a name="start"></a>
 
-## Results and Pre-trained Models <a name="models"></a>
+## Results and Models <a name="models"></a>
 
 ## License <a name="license"></a>
 
