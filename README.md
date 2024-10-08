@@ -44,10 +44,30 @@ Reproducibility: Include links to data or code to reproduce results, if possible
 
 Make sure to keep it succinct and focus on the most relevant information.
 
+| Method | Sensitivity | Specificity | Accuracy | mAP | Dice |
+| :---: | :---: | :---: | :---: | :---:|:---:| 
+| XXXXXX | 0.455 | 0.390 | 0.297 | 0.454 | 0.674 |
+
+
 ## Citation* <a name="citation"></a>
 
 If you find our project useful for your research, please consider citing our paper and codebase with the following BibTeX:
 
+```bibtex
+@inproceedings{paiva2023attention,
+  title={Attention to Emotions: Body Emotion Recognition In-the-Wild Using Self-attention Transformer Network},
+  author={Paiva, Pedro VV and Ramos, Josu{\'e} JG and Gavrilova, Marina and Carvalho, Marco AG},
+  booktitle={International Joint Conference on Computer Vision, Imaging and Computer Graphics},
+  pages={206--228},
+  year={2023},
+  organization={Springer}
+}
+```
+
 ## License <a name="license"></a>
+In the License section of your GitHub project or research paper, include the type of license under which your code or content is released. Briefly explain the permissions and limitations associated with that license. Common licenses include MIT, GPL, or Apache.
 
 ## Related Resources <a name="resources"></a>
+- [Related Literature](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2024.1434421/full) (ai2lab)
+- [Book Link](https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975/ref=asc_df_1098125975/?gad_source=1&hvadid=706745562943&hvdev=c&hvdvcmdl&hvlocint&hvlocphy=9001320&hvnetw=g&hvpone&hvpos&hvptwo&hvqmt&hvrand=18226388509454359838&hvtargid=pla-1651497364252&linkCode=df0&mcid=7e8ca6f4dddf3bd783d530f456a83b68&psc=1&tag=googleshopc0c-20)
+- [Web Content](https://d2l.ai/)
