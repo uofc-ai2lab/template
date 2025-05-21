@@ -48,19 +48,26 @@ Make sure to keep it succinct and focus on the most relevant information.
 | :---: | :---: | :---: | :---: | :---:|:---:| 
 | XXXXXX | 0.455 | 0.390 | 0.297 | 0.454 | 0.674 |
 
+<p align="left">
+  <img src="figure.png" alt="Figure" width="500"/>
+  <br>
+  <em>Figure 1: Please add necessary figures</em>
+</p>
+
 
 ## Citation* <a name="citation"></a>
 
 If you find our project useful for your research, please consider citing our paper and codebase with the following BibTeX:
 
 ```bibtex
-@inproceedings{paiva2023attention,
-  title={Attention to Emotions: Body Emotion Recognition In-the-Wild Using Self-attention Transformer Network},
-  author={Paiva, Pedro VV and Ramos, Josu{\'e} JG and Gavrilova, Marina and Carvalho, Marco AG},
-  booktitle={International Joint Conference on Computer Vision, Imaging and Computer Graphics},
-  pages={206--228},
-  year={2023},
-  organization={Springer}
+@article{bento2022deep,
+  title={Deep learning in large and multi-site structural brain MR imaging datasets},
+  author={Bento, Mariana and Fantini, Irene and Park, Justin and Rittner, Leticia and Frayne, Richard},
+  journal={Frontiers in Neuroinformatics},
+  volume={15},
+  pages={805669},
+  year={2022},
+  publisher={Frontiers Media SA}
 }
 ```
 
